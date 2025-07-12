@@ -9,6 +9,6 @@
 * 创建worker
 * 点"部署"按钮
 * 编辑代码
-* 把worker.js文件中的内容复制进去，点"保存并部署"
+* 把proxy.js文件中的内容复制进去，点"保存并部署"
 # 密码添加
-在worker.js代码中搜索`const password = ""`
+在proxy.js代码中搜索`const password = ""`
